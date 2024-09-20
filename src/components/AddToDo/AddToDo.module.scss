@@ -1,0 +1,18 @@
+.addToDo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.input {
+  flex-grow: 1;
+}
+
+.inputField {
+  height: 56px;
+}
+
+.addButton {
+  height: 56px;
+}

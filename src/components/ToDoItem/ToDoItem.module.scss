@@ -1,0 +1,29 @@
+.toDoItem {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+  font-size: 16px;
+  justify-content: space-between;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.even {
+  background-color: #f0f8ff;
+}
+
+.odd {
+  background-color: #ffe4e1;
+}
+
+.deleteButton {
+  color: #ff4c4c;
+}
